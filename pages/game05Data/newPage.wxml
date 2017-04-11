@@ -1,0 +1,4 @@
+<!--newpage.wxml-->  
+<view style="width:100%;margin:30rpx">infofromapp:{{infofromapp}}</view>  
+<view style="width:100%;margin:30rpx">infofromindex:{{infofromindex}}</view>  
+<view style="width:100%;margin:30rpx">infofromstorage:{{infofromstorage}}</view> 

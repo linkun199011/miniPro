@@ -1,0 +1,6 @@
+<!--index.wxml-->  
+<view>  
+<button style="background-color:#00ff00;margin:20rpx" bindtap="gotonewpage">跳转</button>  
+<input  style="background-color:#eee;margin:20rpx;height:80rpx" placeholder="请输入需要保存的参数" bindinput="searchInputEvent" />  
+<button style="background-color:#ff0000;margin:20rpx" bindtap="saveinput">存入Storage</button>  
+</view>  

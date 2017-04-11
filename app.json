@@ -8,7 +8,9 @@
     "pages/game01Scale/index",
     "pages/game02Swiper/index",
     "pages/game03View/index",
-    "pages/game04Button/index"
+    "pages/game04Button/index",
+    "pages/game05Data/index",
+    "pages/game05Data/newPage"
   ],
   "window":{
     "backgroundTextStyle":"light",

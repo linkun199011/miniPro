@@ -6,3 +6,4 @@
 <button bindtap="swiperDemo"> swiper-demo </button>
 <button bindtap="viewDemo"> view-demo </button>
 <button bindtap="btnDemo"> btn-demo </button>
+<button bindtap="dataDemo"> data-demo </button>

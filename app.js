@@ -1,5 +1,8 @@
 //app.js
 App({
+  data: {  
+    infofromapp: '来自APP.js的信息'  
+  },
   onLaunch: function () {
     //调用API从本地缓存中获取数据 add By LinKun
     var logs = wx.getStorageSync('logs') || []

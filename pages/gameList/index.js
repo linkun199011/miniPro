@@ -37,5 +37,10 @@ Page({
     wx.navigateTo({
       url: '../game04Button/index',
     })
+  },
+  dataDemo: function(e) {
+    wx.navigateTo({
+      url: '../game05Data/index',
+    })
   }
 })
