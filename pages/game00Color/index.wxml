@@ -1,0 +1,7 @@
+<!-- This is our View -->
+<view class="colorContainer">
+
+    <button type="primary" class="btn1" hover-class="button-hover"> 1 </button>
+    <button class="btn2"> 2 </button>
+
+</view>

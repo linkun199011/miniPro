@@ -3,7 +3,8 @@
     "pages/index/index",
     "pages/logs/logs",
     "pages/linkun/index",
-    "pages/gameList/index"
+    "pages/gameList/index",
+    "pages/game00Color/index"
   ],
   "window":{
     "backgroundTextStyle":"light",
@@ -20,7 +21,7 @@
       {
         "text": "首页",
         "pagePath": "pages/index/index",
-        "iconPath": "images/home.png",
+        "iconPath": "images/home.png",  
         "selectedIconPath": "images/home-actived.png"
       },
       {

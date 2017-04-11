@@ -10,13 +10,7 @@ Page({
   changeName: function(e) {
     // sent data change to view
     this.setData({
-      name: 'MINA'  
-    })
-  },
-  colorBattle: function(e) {
-    // create view
-    wx.navigateTo({
-      url: '../game00Color/index',
+      name: 'MINA'
     })
   }
 })
