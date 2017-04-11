@@ -4,7 +4,11 @@
     "pages/logs/logs",
     "pages/linkun/index",
     "pages/gameList/index",
-    "pages/game00Color/index"
+    "pages/game00Color/index",
+    "pages/game01Scale/index",
+    "pages/game02Swiper/index",
+    "pages/game03View/index",
+    "pages/game04Button/index"
   ],
   "window":{
     "backgroundTextStyle":"light",

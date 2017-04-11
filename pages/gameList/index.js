@@ -14,9 +14,28 @@ Page({
     })
   },
   colorBattle: function(e) {
-    // create view
     wx.navigateTo({
       url: '../game00Color/index',
+    })
+  },
+  scaleDemo: function(e) {
+    wx.navigateTo({
+      url: '../game01Scale/index',
+    })
+  },
+  swiperDemo: function(e) {
+    wx.navigateTo({
+      url: '../game02Swiper/index',
+    })
+  },
+  viewDemo: function(e) {
+    wx.navigateTo({
+      url: '../game03View/index',
+    })
+  },
+  btnDemo: function(e) {
+    wx.navigateTo({
+      url: '../game04Button/index',
     })
   }
 })

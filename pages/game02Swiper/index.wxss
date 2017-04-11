@@ -1,0 +1,24 @@
+/* pages/linkun/index.wxss */
+.colorContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #0aa
+}
+
+.btn1 {
+    width: 30rpx;
+    background-color: #a0a;
+}
+.btn2 {
+    width: 30rpx;
+    background-color: #fcc;
+    margin-top: 10rpx;
+}
+.button-hover{
+  background-color:red;
+}
+/** 添加自定义button点击态样式类**/
+.other-button-hover{
+  background-color:blur;
+}

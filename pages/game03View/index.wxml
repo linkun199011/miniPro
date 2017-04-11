@@ -1,0 +1,6 @@
+<button bindtap="viewDemo"> view-demo </button>
+<block wx:for="{{movies}}" wx:for-index="index">    
+
+    <!--<view  class="button-hover" > Hello world </view>-->
+      <image src="{{item.url}}" class="slide-image" mode="aspectFill"/>    
+  </block>    

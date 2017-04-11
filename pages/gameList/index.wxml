@@ -2,3 +2,7 @@
 <view> Hello {{name}}! </view>
 <button bindtap="changeName"> Click me! </button>
 <button bindtap="colorBattle"> 颜色大作战 </button>
+<button bindtap="scaleDemo"> scale-demo </button>
+<button bindtap="swiperDemo"> swiper-demo </button>
+<button bindtap="viewDemo"> view-demo </button>
+<button bindtap="btnDemo"> btn-demo </button>
