@@ -12,11 +12,6 @@ Page({
       url: '../logs/logs'
     })
   },
-  changeName: function() {
-    wx.navigateTo({
-      url: '../linkun/index',
-    })
-  },
   onLoad: function () {
     console.log('onLoad')
     var that = this

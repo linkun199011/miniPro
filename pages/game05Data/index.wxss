@@ -7,3 +7,7 @@
 .other-button-hover {
   background-color: blue;
 }
+
+page {
+  background-color: blue;
+}
