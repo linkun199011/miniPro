@@ -10,7 +10,8 @@
     "pages/game03View/index",
     "pages/game04Button/index",
     "pages/game05Data/index",
-    "pages/game05Data/newPage"
+    "pages/game05Data/newPage",
+    "pages/game062048/2048"
   ],
   "window":{
     "backgroundTextStyle":"light",
@@ -25,28 +26,16 @@
     "backgroundColor": "white",
     "list": [
       {
-        "text": "首页",
-        "pagePath": "pages/index/index",
-        "iconPath": "images/home.png",  
-        "selectedIconPath": "images/home-actived.png"
-      },
-      {
-        "text": "休闲",
-        "pagePath": "pages/logs/logs",
-        "iconPath": "images/game.png",
-        "selectedIconPath": "images/game-actived.png"
-      },
-      {
-        "text": "娱乐",
+        "text": "游戏",
         "pagePath": "pages/gameList/index",
-        "iconPath": "images/practice.png",
-        "selectedIconPath": "images/practice-actived.png"
+        "iconPath": "images/game1.png",
+        "selectedIconPath": "images/game1-actived.png"
       },
       {
         "text": "我的",
-        "pagePath": "pages/linkun/index",
-        "iconPath": "images/my.png",
-        "selectedIconPath": "images/my-actived.png"
+        "pagePath": "pages/index/index",
+        "iconPath": "images/wo.png",  
+        "selectedIconPath": "images/wo-actived.png"
       }
     ]
   }

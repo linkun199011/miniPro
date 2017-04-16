@@ -7,3 +7,4 @@
 <button bindtap="viewDemo"> view-demo </button>
 <button bindtap="btnDemo"> btn-demo </button>
 <button bindtap="dataDemo"> data-demo </button>
+<button bindtap="game2048"> game-2048 </button>

@@ -42,5 +42,10 @@ Page({
     wx.navigateTo({
       url: '../game05Data/index',
     })
+  },
+  game2048: function(e) {
+    wx.navigateTo({
+      url: '../game062048/2048',
+    })
   }
 })
